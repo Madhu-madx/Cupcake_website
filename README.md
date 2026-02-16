@@ -92,9 +92,11 @@ The following screenshots are included in this repository:
 ![WhatsApp Image 2026-02-16 at 8 23 55 PM](https://github.com/user-attachments/assets/2efde075-8923-49d2-8729-c7e6152afe0c)
 
 * Food Listing Page
+  
   ![WhatsApp Image 2026-02-16 at 8 24 41 PM](https://github.com/user-attachments/assets/84e85eb8-c65f-4d00-915b-ce06c65b40bc)
 
 * Order Placement Page
+  
   ![WhatsApp Image 2026-02-16 at 8 24 13 PM](https://github.com/user-attachments/assets/f3ef0c83-2013-4c18-8dba-4a98e844c376)
 
 * Database Structure (phpMyAdmin)
